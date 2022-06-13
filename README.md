@@ -1,8 +1,8 @@
 - 👋 Oi, eu sou thiago
-- 👀 estou imteressado em 
-- 🌱 atualmente estou estudando 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 estou imteressado em musica, psicologia e gastronomia
+- 🌱 estou estudando 
+- 💞️ eu amo musica e animais
+- 📫 como me achar: @tchag0o.o no instagram
 
 <!---
 Thiago-almeida2005/Thiago-almeida2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
