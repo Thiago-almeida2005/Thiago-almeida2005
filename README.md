@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou thiago
-- 👀 estou imteressado em musica, psicologia e gastronomia
-- 🌱 estou estudando 
+- 👀 estou interessado em musica, psicologia e gastronomia
+- 🌱 estou estudando programação
 - 💞️ eu amo musica e animais
 - 📫 como me achar: @tchag0o.o no instagram
 
